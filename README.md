@@ -1,3 +1,9 @@
-# Amazon-India-Sales-Analytics-Project
+# 📊 Amazon India: A Decade of Sales Analytics (2015–2025)
 
-" Simple End-to-end e-commerce analytics project using Power BI, Python, and SQL on Amazon India data (2015-2025)."
+**Live Interactive Dashboard**: [Add Power BI published link or Streamlit link]
+
+End-to-end analytics project | 5+ Million transactions analyzed
+
+**Tech**: Python | SQL (PostgreSQL) | Power BI | Streamlit | Neon DB
+
+→ 30+ Insights | YoY Growth | Regional Analysis | Customer Segmentation
